@@ -1,0 +1,251 @@
+@media screen and (max-width: 1272px) {
+	body{
+		overflow-x: hidden;
+	}
+}
+
+@media screen and (max-width: 1199px) {
+	.free-download-msg {
+    	padding: 1em 0 0;
+	}
+	.angelfish-menu{
+		padding: 0 3em;
+	}
+	.free-download-msg .lead{
+		font-size: 1.1em;
+	}
+	.free-download-msg{
+		padding: 1.2em 0;
+	}
+	.mobile-freedownload .lead.span2 {
+    	left: 0;
+    	padding: 1.1em 0;
+    	margin-bottom: 0;
+	}
+	#section-one{
+		height: 89px;
+	}
+	.free-ebook-download-btn{
+		padding: 1.5em 0;
+	}
+	.layout-five-middle-texts .nine-reasons{
+		font-size: 2.45em;
+	}
+}
+
+
+@media screen and (max-width: 1050px) {
+	.vc_col-sm-3.mid-col.wpb_column.vc_column_container{
+		margin-left: 2%;
+	}
+}
+
+@media screen and (max-width: 979px) {
+	
+	.vc_col-sm-3.mid-col.wpb_column.vc_column_container{
+		margin-left: 4%;
+	}
+	
+	.menu-socialmedia {
+    	margin: 0 auto 30px;
+    	text-align: center;
+	}
+	.web-design p,
+	.social{
+		padding: 0;
+	}
+	
+	#section-one{
+		height: 100%;
+	}
+	.free-ebook-download-btn {
+    	/* display: table; */
+    	/* margin: 0 auto; */
+    	padding: 1em 0;
+	}
+	
+	.free-ebook{
+		height: 100%;
+	}
+	
+	.download-ebook h2{
+		font-size: 1.5em;
+		line-height: 30px;
+	}
+	.right-col {
+    	padding: 0;
+	}
+	
+	.go-top {
+		top:10em;
+	}
+	.mobile-freedownload .lead{
+		font-size: 1em;
+	}
+	.free-download-msg .lead{
+		line-height: 1;
+	}
+	.home-container {
+ 	   margin-bottom: 250px;
+	}
+	.free-download-msg{
+		padding: 0.5em 0;
+	}
+	.download-texts{
+		padding: 0.5em 0 1em 1em;
+	}
+}
+
+@media screen and (max-width: 930px) {
+	.vc_col-sm-3.mid-col.wpb_column.vc_column_container{
+		margin-left: 7%;
+	}
+}
+
+@media screen and (max-width: 879px) {
+	.vc_col-sm-3.mid-col.wpb_column.vc_column_container{
+		margin-left: 10%;
+	}
+}
+
+@media screen and (max-width: 790px) {
+	.icons-panel{
+		width: 100%;
+	}
+	.vc_col-sm-3.mid-col.wpb_column.vc_column_container{
+		margin-left: 15%;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	body{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.vc_col-sm-3.mid-col.wpb_column.vc_column_container{
+		margin-left: 0;
+	}
+	
+	
+	.row-fluid .offset1{
+		margin-left: 0%;
+	}
+	
+	#section-one,
+	#section-two,
+	#section-three,
+	#section-four,
+	#section-five,
+	#section-six,
+	#section-seven,
+	#section-eight,
+	#section-nine{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+	.icons-panel .lead{
+		margin: 1em 0 2em;
+	}
+	
+	.download-btn{
+		display: table;
+		margin: 0 auto;
+	}
+	.download-texts,
+	.right-col{
+		text-align: center;
+	}
+	
+	.download-texts,
+	.right-col-contents{
+		max-width: 100%;
+	}
+	.right-col{
+		padding: 2em 0 0;
+	}
+	
+	.mobile-freedownload{
+		display: table;
+		margin: 0 auto;
+		text-align: center;
+	}
+	
+	.free-download{
+		display: block;
+	}
+
+	.book > img {
+ 	   max-width: 50%;
+	}
+	
+	.download-ebook h2{
+		font-size: 2.625em;
+		line-height: 45px;
+	}
+	#consultation-green-bg {
+    	display: table;
+    	margin: 1em auto 0;
+	}
+	
+	.mobile-freedownload .lead{
+		font-size: 1.313em;
+	}
+	.free-download-msg .lead{
+		line-height: 30px;
+	}
+	.free-ebook-download-btn{
+		padding: 0 0 1.5em;
+	}
+	
+	.free-download-msg{
+		padding: 1.5em 0;
+	}
+	
+	/*Email marketing template*/
+	
+	.angelfish-laptop{
+		position: relative;
+	}
+	.wpb_single_image.vc_align_right.green-email-icon{
+		text-align: left;
+	}
+	
+	.layout-five .wpb_single_image.vc_align_right,
+	.want-talk-msg,
+	.layout-five-middle-texts{
+		text-align: center;
+	}
+	
+	.layout-seven .vc_col-sm-2{
+		width: 100%;
+	}
+	
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 465px) {
+	.social-icons {
+	    display: table;
+	    margin: 0 auto;
+	}
+	.social-icons li{
+		display: block;
+		padding: 0 0 1em;
+	}
+}
+
+@media screen and (max-width: 424px) {	
+	.layout-one .wpb_single_image {
+    	padding-top: 50px !important;
+	}
+}
+
+
+@media screen and (max-width: 320px) {	
+	
+}
